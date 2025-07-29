@@ -1,0 +1,172 @@
+cd
+git init
+git clone https://github.com/Madhankumar-10/5189281_MADHANKUMAR.git
+git add .
+git init
+git add .
+git status
+git commit -m "First Commit"
+git remote add origin https://github.com/Madhankumar-10/5189281_MADHANKUMAR.git
+git commit -m
+git commit -m "First Commit"
+git config --global user.email "madhanmano.in@gmail.com"
+git config --global user.name "Madhankumar-10"
+git commit -m "First commit"
+[200~ git remote add origin https://github.com/Madhankumar-10/5189281_MADHANKUMAR.git
+git init
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/Madhankumar-10/5189281_MADHANKUMAR.git
+git push -u
+git status
+git log
+git init
+git add .
+git status
+git init
+git add .
+git status
+git commit -m "First Commit"
+git push
+git init
+git add .
+git status
+git commit -m "Second Commit"
+git push
+git init
+git add .
+git status
+git commit -m "Added Image"
+git push
+git add .
+git status
+git commit -m "Added Image"
+git push
+git add .
+git status
+git commit -m "Added Image"
+git push
+git add .
+git status
+git commit -m "Added Image"
+git push
+git add .
+git status
+git commit -m "Added Image"
+git push
+whoami
+uname -a
+uname -o
+uname -i
+uname -n
+uname -v
+uname -s
+uname -m
+uname -r
+whoami
+info ls
+whatis ls
+echo $SHELL
+date
+cal
+bc
+ls
+pwd
+mkdir NewFolder
+ls
+cd NewFolder
+cd ..
+rmdir NewFolder
+ls
+uname -a
+uname -n
+uname -v
+uname -s
+echo "Hello this is my new project"
+echo -n "Hello this is my new project"
+echo `date`
+echo "Welcome to \"My Project\""
+echo "Welcome to
+My
+Project"
+date "+%D"
+date "+%D %T"
+date "+ %d - %m - %y"
+echo -e "Hello \t World"
+wc
+history
+seq 1 10
+clear
+history
+ls
+mkdir folder1
+ls
+cd folder1
+touch new.txt
+ls
+cd ..
+pwd
+mkdir folder2
+ls
+rmdir folder2
+ls
+cd folder1
+touch newpg.c
+ls
+rm newpg.c
+ls
+cd ..
+whoami
+uname -a
+uname -n
+uname -v
+uname -s
+uname -m
+uname -r
+date
+date "+%D"
+date "+%D %T"
+date "+%d-%m-%y"
+seq 1 10
+seq 1 3 10
+seq 10 -1 1
+seq -s " " 1 10
+seq -s " " 1 2 10
+echo "Hello World"
+echo -e "Hello \t World"
+echo date
+echo `date`
+echo "Welcome to \"Linux\""
+echo "Welcome
+to
+Linux
+\"Training""
+."
+history
+history
+history -w -/MyHistory.txt
+history
+history -w "MyHistory.txt"
+git add .
+git init
+git add .
+git status
+git commit -m "History Commit"
+git push
+git push -u
+git add .
+git status
+git add .
+git status
+git commit -m "History Commit"
+git push
+git config --global user.email
+git commit -m "New commit"
+git push
+git clone https://github.com/Madhankumar-10/5189281_MADHANKUMAR.git
+cd 5189281_MADHANKUMAR
+git add .
+git commit -m "NewHistory Commit"
+git push
+history
+history -w "5189281_History.txt"
