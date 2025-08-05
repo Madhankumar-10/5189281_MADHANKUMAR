@@ -16,20 +16,16 @@ int main(){
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
-    float a=0,b=0,c=0;
     for(int i=0;i<n;i++){
-        if(arr[i]>=1){
-            a++;
+        int flag=1;
+        for(int j=0;j<n;j++){
+            if(i!=j && arr[i]==arr[j]){
+                flag=0;
+                break;
+            }
         }
-        else if (arr[i]==0) {
-            c++;
-        }
-        else {
-            b++;
+        if(flag==1){
+            printf("%d",arr[i]);
         }
     }
-    float x = a/n;
-    float y = b/n;
-    float z = c/n;
-    printf("%.6f\n%.6f\n%.6f",x,y,z);
 }
