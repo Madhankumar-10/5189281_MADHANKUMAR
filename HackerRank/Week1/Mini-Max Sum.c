@@ -33,4 +33,5 @@ int main(){
     max+=arr[4];
     max-=arr[0];
     printf("%ld %ld",min,max);
+    return 0;
 }

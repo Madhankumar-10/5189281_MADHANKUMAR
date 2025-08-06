@@ -30,4 +30,5 @@ int main(){
     int diff;
     diff=abs(l-r);
     printf("%d",diff);
+    return 0;
 }

@@ -32,4 +32,5 @@ int main(){
     float y = b/n;
     float z = c/n;
     printf("%.6f\n%.6f\n%.6f",x,y,z);
+    return 0;
 }
