@@ -28,4 +28,5 @@ int main(){
         arr2[i]=count;
         printf("%d ",count);
     }
+    return 0;
 }
